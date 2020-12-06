@@ -1,0 +1,6 @@
+source 'http://rubygems.org'
+
+ruby '2.7.2'
+
+gem 'fluentd', '~> 0.12.29'
+gem 'fluent-plugin-elasticsearch'
